@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="mainButtonBackgroundColor" format="color"/>
+    <attr name="mainButtonBorderColor" format="color"/>
+    <attr name="mainEditTextBorderColor" format="color"/>
+    <attr name="mainLayoutBackgroundColor" format="color"/>
+    <attr name="mainAppBackground" format="color"/>
+</resources>
